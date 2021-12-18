@@ -1,0 +1,14 @@
+[tool.poetry]
+name = "2021-12-15-lab5-decisiontree.py"
+version = "0.1.0"
+description = ""
+authors = ["pushsla <push2001sla@gmail.com>"]
+
+[tool.poetry.dependencies]
+python = "^3.10"
+
+[tool.poetry.dev-dependencies]
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"
